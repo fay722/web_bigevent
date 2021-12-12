@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding: 15px;
+    background-color: #eff1f3;
+}
+#form-edit{
+    padding: 20px 40px 0 0;
+}
